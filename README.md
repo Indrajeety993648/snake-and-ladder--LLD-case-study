@@ -12,7 +12,7 @@ This project is a low-level design (LLD) implementation of the classic Snake and
 ## Class Diagram
 ![Class Diagram]("https://img.plantuml.biz/plantuml/png/RLJTRfim5Bv7uXsiN7LhamT0KTIqGLsqCQrbKzNUkN22h14JsQPRrlRTTx0njW4k07y-Fz_vlPQA2jKUwpYAewAcKf8xUWJo5aS4doLvQQWe4tBJVInsgkaPX4p8VGijh7_euyRUbgo0XEpmdNB5rDdYVnZd81B2kB9GXQvsx71WHLkhSw9TkxEHkYH7-XkovXKkFbca0gK91OYX8GEiOz417ouyhUZYo_VFQS191woPCy0GCtfQxxc22iILqJLHRJmlEVitGyxQ6FpJ5wa4BHJnY1XZZeukHy07UEcTZRzEA72OyZ0NFy-dSTmvnpJQmpTQbY2wIv_5-dsvj78JtAaO4oRTZZd7sYKaLuBnQcYKHc8A6ZuEu3lAXhNh1HqeGt0kWQx5B8jB8fgw7WNUYSMH9wp3CMWS8J4G1rg0RZwaJx7Mda7u2qMhuAAxlUg33krdVNjQNOj_PNMDkHZ3ZpW60Hn7WUVr-serOtCgCx4_5PdnvJN3bfUcg3c8Lqo72xe2d5HKcUzZcrOxfxSDFx3AwuJsgEtBe8yHDTxak1kC_c0UK7Aq2QpjT9i_cRyitUr_PUR_o_PXr-lgtVKPozllg-7ihwC17AyRVT7WnQBVS8k-uFquQAL5i20M_XZ7qNnULwlD95qTsskSRLoz_m40")
 
-> Replace `IMAGE_URL_HERE` with the actual URL of your class diagram image.
+
 
 ## How to Run
 1. Clone the repository.
@@ -22,7 +22,7 @@ This project is a low-level design (LLD) implementation of the classic Snake and
 	```
 3. Run the main class:
 	```
-	java -cp src com.example.Main
+	java -cp src com.example.main
 	```
 
 ## Project Structure
