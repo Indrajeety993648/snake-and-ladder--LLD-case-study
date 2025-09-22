@@ -12,7 +12,7 @@ This project is a low-level design (LLD) implementation of the classic Snake and
 
 ## Class Diagram
 
-![Class Diagram](class_diagram.png)
+![Class Diagram]([](https://drive.google.com/file/d/13ZudxictHPccnTp-AAIEMDvaSV3WmDhH/view))
 
 ## How to Run
 
